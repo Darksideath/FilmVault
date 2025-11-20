@@ -62,7 +62,6 @@ Projeyi klonlayın veya indirin.
 
 TMDB sitesinden ücretsiz bir API anahtarı alın.
 
-Pages/Index.cshtml.cs dosyasını açın ve ApiKey alanına kendi anahtarınızı yapıştırın.
 -------------------------------------------------------------------------------------------------------------------
 
 Projeyi Visual Studio ile açıp çalıştırın (F5).
